@@ -1,4 +1,4 @@
-# amazonprimeloginpage
+# primevideolandingpage
 OUTPUT
 ![Screenshot 2023-07-23 182558](https://github.com/AMITPATTANAYAK/amazonprimeloginpage/assets/122168162/4967efb2-0854-4d4a-bf67-201e34b3b235)
 ![Screenshot 2023-07-23 182759](https://github.com/AMITPATTANAYAK/amazonprimeloginpage/assets/122168162/516d4433-1389-40c3-afbe-8dddbcb505e7)
